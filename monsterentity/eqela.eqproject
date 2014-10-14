@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# MonsterEntity
+#
+
+projectname: MonsterEntity
+vendorid: com.mycompany
+mainmodule: com.mycompany.monsterentity
